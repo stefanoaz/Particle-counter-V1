@@ -9,4 +9,6 @@ Notes:
 For U1 and U3, good opamps are: OPA-2376, AD8692 or TLV2772. U2 is an MCP602.
 A charge pump voltage doubler is needed to increase the reverse bias across the PIN diodes: this enlarges the diode depletion region, which is where particle detection takes place. The reverse bias makes AC coupling to the opamps necessary.
 
+Do not exceed 5.5V Vcc.
+
 Steve
