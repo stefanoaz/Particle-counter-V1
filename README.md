@@ -12,3 +12,5 @@ A charge pump voltage doubler is needed to increase the reverse bias across the 
 Do not exceed 5.5V Vcc.
 
 Steve
+
+Note 26 March 2023: There are recommended resistor value changes in the photodiode bias string. R2,3 should be lowered to 4.7 Meg., R1,4 should be lowered to 270K ohm.
