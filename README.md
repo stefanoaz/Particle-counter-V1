@@ -14,3 +14,5 @@ Do not exceed 5.5V Vcc.
 Steve
 
 Note 26 March 2023: There are recommended resistor value changes in the photodiode bias string. R2,3 should be lowered to 4.7 Meg., R1,4 should be lowered to 270K ohm.
+
+Note 2 June, 2023: Recommend Version 2 of this design for improved EMI immunity and CMRR. See: "Particle-counter-V2" repository.
